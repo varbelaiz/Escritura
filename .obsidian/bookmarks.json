@@ -1,0 +1,149 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1790985600000,
+      "title": "sortspec",
+      "items": [
+        {
+          "type": "file",
+          "path": "Escritura.md"
+        },
+        {
+          "type": "group",
+          "title": "wiki",
+          "ctime": 1790985600000,
+          "items": [
+            {
+              "type": "group",
+              "title": "1. Teoría",
+              "ctime": 1790985600000,
+              "items": [
+                {
+                  "type": "file",
+                  "path": "wiki/1. Teoría/Teoría.md"
+                },
+                {
+                  "type": "file",
+                  "path": "wiki/1. Teoría/El proceso de escritura.md"
+                },
+                {
+                  "type": "file",
+                  "path": "wiki/1. Teoría/Adecuación y coherencia.md"
+                },
+                {
+                  "type": "file",
+                  "path": "wiki/1. Teoría/Cohesión.md"
+                },
+                {
+                  "type": "file",
+                  "path": "wiki/1. Teoría/Géneros discursivos.md"
+                },
+                {
+                  "type": "file",
+                  "path": "wiki/1. Teoría/Enunciación y deixis.md"
+                },
+                {
+                  "type": "file",
+                  "path": "wiki/1. Teoría/Personas del discurso y despersonalización.md"
+                },
+                {
+                  "type": "file",
+                  "path": "wiki/1. Teoría/Subjetivemas.md"
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "title": "2. Corpus",
+              "ctime": 1790985600000,
+              "items": [
+                {
+                  "type": "file",
+                  "path": "wiki/2. Corpus/Corpus.md"
+                },
+                {
+                  "type": "file",
+                  "path": "wiki/2. Corpus/Monografía modelo.md"
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "title": "3. Preguntas",
+              "ctime": 1790985600000,
+              "items": [
+                {
+                  "type": "file",
+                  "path": "wiki/3. Preguntas/Preguntas.md"
+                },
+                {
+                  "type": "file",
+                  "path": "wiki/3. Preguntas/Proceso y propiedades textuales.md"
+                },
+                {
+                  "type": "file",
+                  "path": "wiki/3. Preguntas/El problema de los géneros discursivos.md"
+                },
+                {
+                  "type": "file",
+                  "path": "wiki/3. Preguntas/Enunciación y subjetividad.md"
+                },
+                {
+                  "type": "file",
+                  "path": "wiki/3. Preguntas/Preguntas integradoras.md"
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "title": "4. Práctica",
+              "ctime": 1790985600000,
+              "items": [
+                {
+                  "type": "file",
+                  "path": "wiki/4. Práctica/Práctica.md"
+                },
+                {
+                  "type": "file",
+                  "path": "wiki/4. Práctica/Ejercicios de cohesión.md"
+                },
+                {
+                  "type": "file",
+                  "path": "wiki/4. Práctica/Ejercicios de despersonalización.md"
+                },
+                {
+                  "type": "file",
+                  "path": "wiki/4. Práctica/Ejercicios de subjetivemas y atenuación.md"
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "title": "5. Examen",
+              "ctime": 1790985600000,
+              "items": [
+                {
+                  "type": "file",
+                  "path": "wiki/5. Examen/Examen.md"
+                },
+                {
+                  "type": "file",
+                  "path": "wiki/5. Examen/La respuesta de examen.md"
+                },
+                {
+                  "type": "file",
+                  "path": "wiki/5. Examen/Normativa.md"
+                },
+                {
+                  "type": "file",
+                  "path": "wiki/5. Examen/Glosario.md"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

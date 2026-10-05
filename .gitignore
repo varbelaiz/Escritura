@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Fuentes y materiales de la cursada; no publicar
+/raw/
+
+# Obsidian: estado de workspace por máquina, no contenido
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/
+.trash/

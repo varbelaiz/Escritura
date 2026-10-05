@@ -1,0 +1,13 @@
+/* Reading view */
+mark,
+.markdown-preview-view mark,
+.markdown-rendered mark {
+  background-color: rgba(124, 58, 237, 0.4) !important;
+  color: inherit !important;
+}
+
+/* Live Preview / Editor */
+.cm-s-obsidian span.cm-highlight {
+  background-color: rgba(124, 58, 237, 0.4) !important;
+  color: inherit !important;
+}
